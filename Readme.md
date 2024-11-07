@@ -29,4 +29,8 @@ git checkout main : Muda para a branch "main"
 git merge Primeira_Branch : Estando na branch "main", une (merge) a branch
                             "Primeira_Branch" com a branch "main"
 
+git clone (link do repositório): Clona o repositório do GitHub pro seu pc
+
+git pull : Puxa as atualizações feitas no GitHub pro clone que está no seu pc
+
 ///////////////////////////////////////////////////////////////////////////////////
